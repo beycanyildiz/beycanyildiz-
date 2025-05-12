@@ -38,7 +38,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [uttam's workspace](https://github.com/beycanyildiz)
+- 👨‍💻 All of my projects are available at (https://github.com/beycanyildiz)
 
 - 📫 How to reach me **yildizbeycan59@gmail.com**
 
@@ -47,7 +47,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/beycan-yıldız-53b1ba24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uttabodara" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/beycan-yıldız-53b1ba24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beycanyıldız" height="30" width="40" /></a>
 <a href="https://www.instagram.com/beaycan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
 <br>
 
